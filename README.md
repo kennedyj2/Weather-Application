@@ -1,7 +1,7 @@
 # 🌤 Weather Application
 
 A sleek, responsive, and highly accessible weather application that lets users instantly check the weather for any city worldwide.  
-Live Demo → [View on Netlify]([YOUR_NETLIFY_LINK](https://weatherapplication-jay.netlify.app)
+Live Demo → [View on Netlify]([YOUR_NETLIFY_LINK](https://weatherapplication-jay.netlify.app))
 
 ---
 
